@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="GoToBusEAR">
+    <wb-module deploy-name="EAR">
         <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
-        <dependent-module archiveName="GoToBusDW.war" deploy-path="/" handle="module:/resource/GoToBusDW/GoToBusDW">
+        <dependent-module archiveName="DW.war" deploy-path="/" handle="module:/resource/DW/DW">
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="GoToBusEJB.jar" deploy-path="/" handle="module:/resource/GoToBusEJB/GoToBusEJB">
+        <dependent-module archiveName="EJB.jar" deploy-path="/" handle="module:/resource/EJB/EJB">
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>

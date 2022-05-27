@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>GoToBusEAR</name>
+	<name>EAR</name>
 	<comment></comment>
 	<projects>
-		<project>GoToBusDW</project>
-		<project>GoToBusEJB</project>
+		<project>DW</project>
+		<project>EJB</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
