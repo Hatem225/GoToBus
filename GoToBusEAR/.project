@@ -3,8 +3,6 @@
 	<name>GoToBusEAR</name>
 	<comment></comment>
 	<projects>
-		<project>GoToBusDW</project>
-		<project>GoToBusEJB</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
